@@ -26,27 +26,27 @@ public class CustomerService {
         Customer customer1 = new Customer();
         customer1.setId(1);
         customer1.setName("Customer 1");
-        customer1.setEmail("customer1@gmail.com");
+        customer1.setEmail("customer1@hsbc.cOm");
 
         Customer customer2 = new Customer();
         customer2.setId(2);
         customer2.setName("Customer 2");
-        customer2.setEmail("Customer2@gmail.com");
+        customer2.setEmail("Customer2@hsbc.cOm");
 
         Customer customer3 = new Customer();
         customer3.setId(3);
         customer3.setName("Customer 3″");
-        customer3.setEmail("Customer3@gmail.com");
+        customer3.setEmail("Customer3@hsbc.cOm");
 
         Customer customer4 = new Customer();
         customer4.setId(4);
         customer4.setName("Customer 4");
-        customer4.setEmail("Customer4@gmail.com");
+        customer4.setEmail("Customer4@hsbc.cOm");
 
         Customer customer5 = new Customer();
         customer5.setId(5);
         customer5.setName("Customer 5");
-        customer5.setEmail("Customer5@gmail.com");
+        customer5.setEmail("Customer5@hsbc.cOm");
 
         customers.add(customer1);
         customers.add(customer2);
